@@ -4,4 +4,7 @@ with limited vastly limited functionality. It is an integrated antenna and RF ba
 
 # Specifications 
 ![image](https://user-images.githubusercontent.com/82128737/135887567-5138fd3f-9bec-401d-a2f0-3f23fa76b45d.png)
-[Rui Santos and Sara Santos]
+
+# GPIO Pinout
+![image](https://user-images.githubusercontent.com/82128737/135888154-c0b4688b-306f-4b3e-8683-de8c305334d5.png)
+
