@@ -4,3 +4,4 @@ with limited vastly limited functionality. It is an integrated antenna and RF ba
 
 # Specifications 
 ![image](https://user-images.githubusercontent.com/82128737/135887567-5138fd3f-9bec-401d-a2f0-3f23fa76b45d.png)
+[Rui Santos and Sara Santos]
